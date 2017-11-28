@@ -1,0 +1,32 @@
+Item: Ice Cream, Price: $2.5, Quantity: 2, Total Cost: $5.0, Purchase Number: 1
+Item: Gum, Price: $0.5, Quantity: 3, Total Cost: $1.5, Purchase Number: 2
+Item: Ice Cream, Price: $2.5, Quantity: 5, Total Cost: $12.5, Purchase Number: 3
+Item: Water, Price: $1.0, Quantity: 1, Total Cost: $1.0, Purchase Number: 1
+Item: Gum, Price: $0.5, Quantity: 3, Total Cost: $1.5, Purchase Number: 2
+Item: Water, Price: $1.0, Quantity: 1, Total Cost: $1.0, Purchase Number: 1
+Item: Gum, Price: $0.5, Quantity: 1, Total Cost: $0.5, Purchase Number: 2
+Item: Ice Cream, Price: $2.5, Quantity: 1, Total Cost: $2.5, Purchase Number: 3
+Item: Gum, Price: $0.5, Quantity: 1, Total Cost: $0.5, Purchase Number: 0
+Item: Ice Cream, Price: $2.5, Quantity: 1, Total Cost: $2.5, Purchase Number: 0
+Item: Fruit, Price: $0.25, Quantity: 1, Total Cost: $0.25, Purchase Number: 0
+Item: Chips, Price: $1.0, Quantity: 3, Total Cost: $3.0, Purchase Number: 0
+Item: Water, Price: $1.0, Quantity: 1, Total Cost: $1.0, Purchase Number: 0
+Item: Gum, Price: $0.5, Quantity: 1, Total Cost: $0.5, Purchase Number: 0
+Item: Gum, Price: $0.5, Quantity: 1, Total Cost: $0.5, Purchase Number: 0
+Item: Gum, Price: $0.5, Quantity: 2, Total Cost: $1.0, Purchase Number: 1
+Item: Ice Cream, Price: $2.5, Quantity: 3, Total Cost: $7.5, Purchase Number: 1
+Item: Gum, Price: $0.5, Quantity: 2, Total Cost: $1.0, Purchase Number: 2
+Item: Ice Cream, Price: $2.5, Quantity: 3, Total Cost: $7.5, Purchase Number: 4
+Item: Gum, Price: $0.5, Quantity: 2, Total Cost: $1.0, Purchase Number: 0
+Item: Ice Cream, Price: $2.5, Quantity: 4, Total Cost: $10.0, Purchase Number: 0
+Item: Gum, Price: $0.5, Quantity: 1, Total Cost: $0.5, Purchase Number: 1
+Item: Fruit, Price: $0.25, Quantity: 2, Total Cost: $0.5, Purchase Number: 2
+Item: Water, Price: $1.0, Quantity: 1, Total Cost: $1.0, Purchase Number: 1
+Item: Gum, Price: $0.5, Quantity: 2, Total Cost: $1.0, Purchase Number: 1
+Item: Gum, Price: $0.5, Quantity: 3, Total Cost: $1.5, Purchase Number: 2
+Item: Soda, Price: $1.5, Quantity: 3, Total Cost: $4.5, Purchase Number: 3
+Item: Water, Price: $1.0, Quantity: 1, Total Cost: $1.0, Purchase Number: 1
+Item: Water, Price: $1.0, Quantity: 1, Total Cost: $1.0, Purchase Number: 2
+Item: Gum, Price: $0.5, Quantity: 1, Total Cost: $0.5, Purchase Number: 3
+Item: Ice Cream, Price: $2.5, Quantity: 1, Total Cost: $2.5, Purchase Number: 4
+Item: Soda, Price: $1.5, Quantity: 1, Total Cost: $1.5, Purchase Number: 5

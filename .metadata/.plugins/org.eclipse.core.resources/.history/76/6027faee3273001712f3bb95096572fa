@@ -1,0 +1,49 @@
+package Project;
+
+public class Item {
+	
+	private String itemName;
+	private double price;
+	
+	
+	//Default Contructor
+	public void Project() {
+		itemName = "Item";
+		price = 0.0;
+		
+	}
+	//Overloaded Constructor
+	public void Project(String itemName, double price) {
+		this.itemName = itemName;
+		this.price = price;
+	}
+	
+	//Getters and Setters
+	public String getItemName() {
+		return itemName;
+	}
+	public double getPrice() {
+		return price;
+	}
+	public void setItemName(String itemName) {
+		this.itemName = itemName;
+	}
+	public void setPrice(double price) {
+		this.price = price;
+	}
+	
+	//toString
+	@Override
+	public String toString() {
+		String s = "Item" + itemName + "Cost:" + price + "/n";
+		return s;
+	}
+	//equals Method
+	@Override
+	public boolean equals(Object o) {
+		if (o intanceof Items) {
+		Items otherI = (Items)o;
+			
+	}
+
+}
